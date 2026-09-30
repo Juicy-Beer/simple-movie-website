@@ -1,4 +1,9 @@
-# Watch
+# Simple Movie Website
+ 
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=blue)
+![TMDB](https://img.shields.io/badge/TMDB-blue?style=for-the-badge&logo=themoviedatabase&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-purple?style=for-the-badge&logo=axios&logoColor=white)
 
 Small Next.js app to browse movies and TV from TMDB and play embeds
 
@@ -46,8 +51,12 @@ Open http://localhost:3000
 src/app/
   layout.js
   page.js
-  movie/[id]/page.js
-  tv/[id]/page.js
+  movie/
+      [id]/
+          page.js
+  tv/
+    [id]/
+        page.js
 ```
 
 ## Notes
