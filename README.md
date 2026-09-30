@@ -16,6 +16,11 @@ Small Next.js app to browse movies and TV from TMDB and play embeds
 ## Setup
 
 1. Clone the repo
+
+```bash 
+git clone https://github.com/Juicy-Beer/simple-movie-website.git
+```
+
 2. Install dependencies:
 
 ```bash
